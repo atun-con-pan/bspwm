@@ -27,9 +27,9 @@ cd EASY-PWM && chmod +x EASY-PWM.sh
 
 ## Con esto hecho debería quedar así:
 
-![](https://github.com/afelipev/EASY-PWM/blob/main/img/WorkEnvironment.png?raw=tru)
+![](https://github.com/afelipev/bspwm/blob/main/img/WorkEnvironment.png?raw=tru)
 
-![](https://github.com/afelipev/EASY-PWM/blob/main/img/WorkEnvironment2.png?raw=true)
+![](https://github.com/afelipev/bspwm/blob/main/img/WorkEnvironment2.png?raw=true)
 
 ![](https://github.com/afelipev/EASY-PWM/blob/main/img/rofi1.png?raw=true)
 
