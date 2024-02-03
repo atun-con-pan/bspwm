@@ -27,11 +27,11 @@ cd EASY-PWM && chmod +x EASY-PWM.sh
 
 ## Con esto hecho debería quedar así:
 
-![](https://github.com/Invertebr4do/EASY-PWM/blob/main/img/WorkEnvironment.png?raw=true)
+![](https://github.com/afelipev/EASY-PWM/blob/main/img/WorkEnvironment.png?raw=tru)
 
-![](https://github.com/Invertebr4do/EASY-PWM/blob/main/img/WorkEnvironment2.png?raw=true)
+![](https://github.com/afelipev/EASY-PWM/blob/main/img/WorkEnvironment2.png?raw=true)
 
-![](https://github.com/Invertebr4do/EASY-PWM/blob/main/img/rofi1.png?raw=true)
+![](https://github.com/afelipev/EASY-PWM/blob/main/img/rofi1.png?raw=true)
 
 ## Implementaciones
 - **kitty** *~»* [kovid goyal](https://sw.kovidgoyal.net/kitty/)
