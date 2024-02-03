@@ -1,28 +1,28 @@
-<h1>EASY-PWM</h1>
+<h1>Créditos Invertebr4do https://github.com/Invertebr4do/EASY-PWM</h1>
 
-[![Logo](https://github.com/Invertebr4do/EASY-PWM/blob/main/img/img_header.png?raw=true "Logo")](https://github.com/Invertebr4do/EASY-PWM/blob/main/img_header.png?raw=true "Logo")
+<h1>BSPWM</h1>
 
-Este script hecho en bash está creado para la automatización de mi configuración de bspwm, es casi la misma de *s4vitar*, pero con algunos cambios.
+Este script hecho en bash está creado para la automatización de mi configuración de bspwm, es casi la misma de *Invertebr4do*, pero con algunos cambios.
 Esta utilidad está pensada para que sea completamente automática, esto te permitirá salir a tomarte un café mientras se configura tu entorno bspwm.
 
 ## Testeado en los siguientes OS:
-- Kali Linux 2023.4.
+- Kali Linux 2023.4 y Debian 12
 
 ## Instalación:
 <strong>SE RECOMIENDA RALIZAR EL PROCEDIMIENTO EN UNA ISO NUEVA</strong>
 - Clonamos el repositorio
 ```
-git clone https://github.com/Invertebr4do/EASY-PWM
+https://github.com/afelipev/bspwm.git
 ```
 - Nos metemos en el directorio, asignamos permisos de ejecución a la herramienta
 
 ```
-cd EASY-PWM && chmod +x EASY-PWM.sh
+cd bspwm && chmod +x installer.sh
 ```
-- Y ejecutamos EASY-PWM.sh
+- Y ejecutamos installer.sh
 
 ```
-./EASY-PWM.sh
+./installer.sh
 ```
 
 ## Con esto hecho debería quedar así:
@@ -88,8 +88,5 @@ cd EASY-PWM && chmod +x EASY-PWM.sh
 | Bajar volumen del sistema | <kbd>Fn</kbd> + <kbd>F2</kbd> |
 | Subir brillo del monitor | <kbd>Fn</kbd> + <kbd>F6</kbd> |
 | Bajar brillo del monitor | <kbd>Fn</kbd> + <kbd>F5</kbd> |
-
-## Vídeo de la configuración s4vitar:
-- s4vitar: https://www.youtube.com/watch?v=mHLwfI1nHHY&t=3013s
 
 ## Disfruta :)
